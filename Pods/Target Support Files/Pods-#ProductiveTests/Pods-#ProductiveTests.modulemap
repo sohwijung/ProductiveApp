@@ -1,0 +1,6 @@
+framework module Pods__ProductiveTests {
+  umbrella header "Pods-#ProductiveTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

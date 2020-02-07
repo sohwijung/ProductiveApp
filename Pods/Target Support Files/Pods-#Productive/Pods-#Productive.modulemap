@@ -1,0 +1,6 @@
+framework module Pods__Productive {
+  umbrella header "Pods-#Productive-umbrella.h"
+
+  export *
+  module * { export * }
+}

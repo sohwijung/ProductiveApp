@@ -1,0 +1,6 @@
+framework module Pods__Productive__ProductiveUITests {
+  umbrella header "Pods-#Productive-#ProductiveUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
